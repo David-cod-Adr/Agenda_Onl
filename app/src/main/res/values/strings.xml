@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Angenda_Online</string>
+
+    <!--Main Activity-->
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+</resources>
