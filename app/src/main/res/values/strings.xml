@@ -4,4 +4,14 @@
     <!--Main Activity-->
     <string name="Btn_Login">Login</string>
     <string name="Btn_Registro">Registro</string>
+
+    <!--ACTIVIDAD REGISTRO-->
+    <string name="CrearCuentaTXT">Crear una cuenta</string>
+    <string name="NombreET">Nombres</string>
+    <string name="CorreoET">Correo electrónico</string>
+    <string name="ContrasenaET">Contraseña</string>
+    <string name="ConfirmarContrasenaET">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengoUnaCuentaTXT">Tengo una cuenta</string>
+
 </resources>
