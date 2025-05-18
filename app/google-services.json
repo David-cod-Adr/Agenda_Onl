@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667709212482",
+    "project_id": "agenda-online-77154",
+    "storage_bucket": "agenda-online-77154.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667709212482:android:0b46a2217c8fe027fe2adb",
+        "android_client_info": {
+          "package_name": "com.example.angenda_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxEmm1__fZJCdUaZD1W6rwkdTUBOotnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
